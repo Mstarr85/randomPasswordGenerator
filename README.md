@@ -1,2 +1,2 @@
-# randomPasswordGenerator
-Generate random password
+# Password_Generator
+
