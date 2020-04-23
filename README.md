@@ -14,7 +14,7 @@
  
              or 
              
- * Click on Github Deployed Link
+ * Click on Github Deployed Link provided below
 
 
 
