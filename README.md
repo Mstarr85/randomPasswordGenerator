@@ -6,9 +6,24 @@
 
  * User can generate a random password so that their sensitive information can stay safe
 
-# Instructions
+## Installation Instructions
 
-* Click on link
+ * Clone Repo to local machine
+ 
+ * Open HTML file with default browser
+ 
+             or 
+             
+ * Click on Github Deployed Link
+
+
+
+
+
+
+
+
+
 * Follow prompts
 * Click generate password button
 * Click copy to clip board and paste 
