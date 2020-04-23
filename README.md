@@ -40,20 +40,11 @@
  
  * Paste new password in any form 
  
-
-
-
-
-
-* Follow prompts
-* Click generate password button
-* Click copy to clip board and paste 
-
-# Github Link
+## Github Repo Link
 
 https://github.com/Mstarr85/randomPasswordGenerator
 
-# Deployed Link
+## Github Deployed Link
 
 https://mstarr85.github.io/randomPasswordGenerator/
 
