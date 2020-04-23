@@ -15,10 +15,31 @@
              or 
              
  * Click on Github Deployed Link provided below
+ 
+## How It Works
 
-
-
-
+ * User will be asked "How many characters would you like your password to contain?" via prompt
+ 
+ * The length must be between 8 and 128 characters 
+ 
+ * User will be asked if they want password to contain special characters
+ 
+ * User will be asked if they want password to contain numeric characters
+ 
+ * User will be asked if they want password to contain lowercase characters
+ 
+ * User will be asked if they want password to contain uppercase characters
+ 
+ * Click "Generate Password" button
+ 
+ * Password will be generated 
+ 
+ * Click the "Copy to Clipboard" button 
+ 
+ * An alert will say that the password has been copied to clipboard
+ 
+ * Paste new password in any form 
+ 
 
 
 
