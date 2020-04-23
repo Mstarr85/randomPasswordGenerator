@@ -1,5 +1,8 @@
 ![Screen Shot 2020-03-05 at 6 19 32 AM (2)](https://user-images.githubusercontent.com/53281244/75977263-ffa97100-5ea9-11ea-9025-dd136e7a9a98.png)
+
 # randomPasswordGenerator
+
+## Description
 
  * User can generate a random password so that their sensitive information can stay safe
 
